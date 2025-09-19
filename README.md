@@ -6,7 +6,7 @@ In this repo we will cover all the topics related to Playwright.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Playwright_Automation.git
+   git clone https://github.com/VikasChaturvedi20/Playwright_Automation-.git
    cd Playwright_Automation
    ```
 
