@@ -23,12 +23,16 @@ export default defineConfig({
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  reporter: 'html',
+  reporter: [
+    ['list'],                 // console output
+    ['html'],                 // Playwright HTML report
+    ['allure-playwright']     // Allure report
+  ],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
  /* Shared settings for all the projects below. */
   use: {
     /* Take screenshot logic */
-    screenshot: 'only-on-failure',  // options: 'off' | 'on' | 'only-on-failure'
+    screenshot: 'on',  // options: 'off' | 'on' | 'only-on-failure'
     video: 'retain-on-failure',     // optional: record video on failure
     trace: 'on-first-retry',        // trace viewer on first retry
 
@@ -48,10 +52,10 @@ export default defineConfig({
       use: { ...devices['Desktop Firefox'] },
     },
 
-    {
+  /*  {
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
-    },
+    },*/
 
     /* Test against mobile viewports. */
     // {
@@ -81,4 +85,3 @@ export default defineConfig({
   //   reuseExistingServer: !process.env.CI,
   // },
 });
-

@@ -1,0 +1,157 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e22] [cursor=pointer]:
+          - generic [ref=e23] [cursor=pointer]:
+            - img [ref=e25] [cursor=pointer]
+            - text: Elements
+          - img [ref=e30] [cursor=pointer]
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37] [cursor=pointer]:
+            - img [ref=e39] [cursor=pointer]
+            - text: Forms
+          - img [ref=e45] [cursor=pointer]
+        - generic [ref=e51] [cursor=pointer]:
+          - generic [ref=e52] [cursor=pointer]:
+            - img [ref=e54] [cursor=pointer]
+            - text: Alerts, Frame & Windows
+          - img [ref=e59] [cursor=pointer]
+        - generic [ref=e63]:
+          - generic [ref=e65] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+              - text: Widgets
+            - img [ref=e73] [cursor=pointer]
+          - list [ref=e78]:
+            - listitem [ref=e79] [cursor=pointer]:
+              - img [ref=e80] [cursor=pointer]
+              - generic [ref=e82] [cursor=pointer]: Accordian
+            - listitem [ref=e83] [cursor=pointer]:
+              - img [ref=e84] [cursor=pointer]
+              - generic [ref=e86] [cursor=pointer]: Auto Complete
+            - listitem [ref=e87] [cursor=pointer]:
+              - img [ref=e88] [cursor=pointer]
+              - generic [ref=e90] [cursor=pointer]: Date Picker
+            - listitem [ref=e91] [cursor=pointer]:
+              - img [ref=e92] [cursor=pointer]
+              - generic [ref=e94] [cursor=pointer]: Slider
+            - listitem [ref=e95] [cursor=pointer]:
+              - img [ref=e96] [cursor=pointer]
+              - generic [ref=e98] [cursor=pointer]: Progress Bar
+            - listitem [ref=e99] [cursor=pointer]:
+              - img [ref=e100] [cursor=pointer]
+              - generic [ref=e102] [cursor=pointer]: Tabs
+            - listitem [ref=e103] [cursor=pointer]:
+              - img [ref=e104] [cursor=pointer]
+              - generic [ref=e106] [cursor=pointer]: Tool Tips
+            - listitem [ref=e107] [cursor=pointer]:
+              - img [ref=e108] [cursor=pointer]
+              - generic [ref=e110] [cursor=pointer]: Menu
+            - listitem [ref=e111] [cursor=pointer]:
+              - img [ref=e112] [cursor=pointer]
+              - generic [ref=e114] [cursor=pointer]: Select Menu
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118] [cursor=pointer]:
+            - img [ref=e120] [cursor=pointer]
+            - text: Interactions
+          - img [ref=e125] [cursor=pointer]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: Book Store Application
+          - img [ref=e139] [cursor=pointer]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          
+        - generic [ref=e147]:
+          - heading "Select Menu" [level=1] [ref=e148]
+          - generic [ref=e150]: Select Value
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - paragraph [ref=e155]
+              - paragraph [ref=e156]: option Group 2, option 1 focused, 0 of 4. 6 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+            - generic [ref=e157]:
+              - generic [ref=e158]:
+                - generic [ref=e159]: Select Option
+                - textbox [active] [ref=e162]
+              - img [ref=e166]
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - generic [ref=e171]: Group 1
+                - generic [ref=e172]:
+                  - generic [ref=e173]: Group 1, option 1
+                  - generic [ref=e174]: Group 1, option 2
+              - generic [ref=e175]:
+                - generic [ref=e176]: Group 2
+                - generic [ref=e177]:
+                  - generic [ref=e178]: Group 2, option 1
+                  - generic [ref=e179]: Group 2, option 2
+              - generic [ref=e180]: A root option
+              - generic [ref=e181]: Another root option
+          - generic [ref=e183]: Select One
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - generic [ref=e189]: Select Title
+              - textbox [ref=e192]
+            - img [ref=e196]
+          - generic [ref=e199]: Old Style Select Menu
+          - combobox [ref=e203]:
+            - option "Red" [selected]
+            - option "Blue"
+            - option "Green"
+            - option "Yellow"
+            - option "Purple"
+            - option "Black"
+            - option "White"
+            - option "Voilet"
+            - option "Indigo"
+            - option "Magenta"
+            - option "Aqua"
+          - generic [ref=e205]:
+            - paragraph [ref=e206]:
+              - generic [ref=e207]: Multiselect drop down
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - generic [ref=e211]: Select...
+                - textbox [ref=e214]
+              - img [ref=e218]
+          - generic [ref=e221]:
+            - paragraph [ref=e222]:
+              - generic [ref=e223]: Standard multi select
+            - listbox [ref=e224]:
+              - option "Volvo" [ref=e225]
+              - option "Saab" [ref=e226]
+              - option "Opel" [ref=e227]
+              - option "Audi" [ref=e228]
+      - generic [ref=e234]:
+        - img "Build PlayWright tests with AI" [ref=e236] [cursor=pointer]
+        - iframe [ref=e239]:
+          - generic [ref=f3e7] [cursor=pointer]:
+            - link [ref=f3e8] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/17?h=5tttgF1Qbvw3ZbiXftp3W06eRtWGPW6vSFbR1OJ7wMAJoqRybiYdw06VWRKQ8JsvTeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBreHhePcIlYEcn18F7ddQB6g&rid=f463fa8e-9844-11f0-ac4a-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=6&gdprApplies=0&st=330&mp4=1&h2=ujGw4saLuWUeLXXtgo_aJuTex4TWpUMk7MqIIYrmgpfqUd95bTSEBwmXOMB8XK7THJu90YH-vc4pWzTdYB6IQw**
+            - generic [ref=f3e9] [cursor=pointer]:
+              - link [ref=f3e11] [cursor=pointer]:
+                - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/17?h=5tttgF1Qbvw3ZbiXftp3W06eRtWGPW6vSFbR1OJ7wMAJoqRybiYdw06VWRKQ8JsvTeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBreHhePcIlYEcn18F7ddQB6g&rid=f463fa8e-9844-11f0-ac4a-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=6&gdprApplies=0&st=330&mp4=1&h2=ujGw4saLuWUeLXXtgo_aJuTex4TWpUMk7MqIIYrmgpfqUd95bTSEBwmXOMB8XK7THJu90YH-vc4pWzTdYB6IQw**
+              - generic [ref=f3e14] [cursor=pointer]:
+                - link "L'OREAL PARIS Men Expert Moisturiser 50ML (Hydra Energetic)" [ref=f3e16] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/17?h=5tttgF1Qbvw3ZbiXftp3W06eRtWGPW6vSFbR1OJ7wMAJoqRybiYdw06VWRKQ8JsvTeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBreHhePcIlYEcn18F7ddQB6g&rid=f463fa8e-9844-11f0-ac4a-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=6&gdprApplies=0&st=330&mp4=1&h2=ujGw4saLuWUeLXXtgo_aJuTex4TWpUMk7MqIIYrmgpfqUd95bTSEBwmXOMB8XK7THJu90YH-vc4pWzTdYB6IQw**
+                - link "Amazon" [ref=f3e18] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/17?h=5tttgF1Qbvw3ZbiXftp3W06eRtWGPW6vSFbR1OJ7wMAJoqRybiYdw06VWRKQ8JsvTeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBreHhePcIlYEcn18F7ddQB6g&rid=f463fa8e-9844-11f0-ac4a-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=6&gdprApplies=0&st=330&mp4=1&h2=ujGw4saLuWUeLXXtgo_aJuTex4TWpUMk7MqIIYrmgpfqUd95bTSEBwmXOMB8XK7THJu90YH-vc4pWzTdYB6IQw**
+                - link [ref=f3e19] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/17?h=5tttgF1Qbvw3ZbiXftp3W06eRtWGPW6vSFbR1OJ7wMAJoqRybiYdw06VWRKQ8JsvTeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBreHhePcIlYEcn18F7ddQB6g&rid=f463fa8e-9844-11f0-ac4a-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=6&gdprApplies=0&st=330&mp4=1&h2=ujGw4saLuWUeLXXtgo_aJuTex4TWpUMk7MqIIYrmgpfqUd95bTSEBwmXOMB8XK7THJu90YH-vc4pWzTdYB6IQw**
+                  - img [ref=f3e20] [cursor=pointer]
+    - contentinfo [ref=e240]:
+      - generic [ref=e241]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

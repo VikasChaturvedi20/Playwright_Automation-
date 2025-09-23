@@ -1,0 +1,118 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+  - generic [ref=e7]:
+    - banner [ref=e8]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e10] [cursor=pointer]
+    - generic [ref=e13]:
+      - generic [ref=e16]:
+        - generic [ref=e19] [cursor=pointer]:
+          - generic [ref=e20] [cursor=pointer]:
+            - img [ref=e22] [cursor=pointer]
+            - text: Elements
+          - img [ref=e27] [cursor=pointer]
+        - generic [ref=e33] [cursor=pointer]:
+          - generic [ref=e34] [cursor=pointer]:
+            - img [ref=e36] [cursor=pointer]
+            - text: Forms
+          - img [ref=e42] [cursor=pointer]
+        - generic [ref=e48] [cursor=pointer]:
+          - generic [ref=e49] [cursor=pointer]:
+            - img [ref=e51] [cursor=pointer]
+            - text: Alerts, Frame & Windows
+          - img [ref=e56] [cursor=pointer]
+        - generic [ref=e60]:
+          - generic [ref=e62] [cursor=pointer]:
+            - generic [ref=e63] [cursor=pointer]:
+              - img [ref=e65] [cursor=pointer]
+              - text: Widgets
+            - img [ref=e70] [cursor=pointer]
+          - list [ref=e75]:
+            - listitem [ref=e76] [cursor=pointer]:
+              - img [ref=e77] [cursor=pointer]
+              - generic [ref=e79] [cursor=pointer]: Accordian
+            - listitem [ref=e80] [cursor=pointer]:
+              - img [ref=e81] [cursor=pointer]
+              - generic [ref=e83] [cursor=pointer]: Auto Complete
+            - listitem [ref=e84] [cursor=pointer]:
+              - img [ref=e85] [cursor=pointer]
+              - generic [ref=e87] [cursor=pointer]: Date Picker
+            - listitem [ref=e88] [cursor=pointer]:
+              - img [ref=e89] [cursor=pointer]
+              - generic [ref=e91] [cursor=pointer]: Slider
+            - listitem [ref=e92] [cursor=pointer]:
+              - img [ref=e93] [cursor=pointer]
+              - generic [ref=e95] [cursor=pointer]: Progress Bar
+            - listitem [ref=e96] [cursor=pointer]:
+              - img [ref=e97] [cursor=pointer]
+              - generic [ref=e99] [cursor=pointer]: Tabs
+            - listitem [ref=e100] [cursor=pointer]:
+              - img [ref=e101] [cursor=pointer]
+              - generic [ref=e103] [cursor=pointer]: Tool Tips
+            - listitem [ref=e104] [cursor=pointer]:
+              - img [ref=e105] [cursor=pointer]
+              - generic [ref=e107] [cursor=pointer]: Menu
+            - listitem [ref=e108] [cursor=pointer]:
+              - img [ref=e109] [cursor=pointer]
+              - generic [ref=e111] [cursor=pointer]: Select Menu
+        - generic [ref=e114] [cursor=pointer]:
+          - generic [ref=e115] [cursor=pointer]:
+            - img [ref=e117] [cursor=pointer]
+            - text: Interactions
+          - img [ref=e122] [cursor=pointer]
+        - generic [ref=e128] [cursor=pointer]:
+          - generic [ref=e129] [cursor=pointer]:
+            - img [ref=e131] [cursor=pointer]
+            - text: Book Store Application
+          - img [ref=e136] [cursor=pointer]
+      - generic [ref=e141]:
+        - heading "Select Menu" [level=1] [ref=e142]
+        - generic [ref=e144]: Select Value
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - generic [ref=e150]: Select Option
+            - textbox [ref=e153]
+          - img [ref=e157]
+        - generic [ref=e160]: Select One
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - generic [ref=e166]: Select Title
+            - textbox [ref=e169]
+          - img [ref=e173]
+        - generic [ref=e176]: Old Style Select Menu
+        - combobox [ref=e180]:
+          - option "Red" [selected]
+          - option "Blue"
+          - option "Green"
+          - option "Yellow"
+          - option "Purple"
+          - option "Black"
+          - option "White"
+          - option "Voilet"
+          - option "Indigo"
+          - option "Magenta"
+          - option "Aqua"
+        - generic [ref=e182]:
+          - paragraph [ref=e183]:
+            - generic [ref=e184]: Multiselect drop down
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e188]: Select...
+              - textbox [ref=e191]
+            - img [ref=e195]
+        - generic [ref=e198]:
+          - paragraph [ref=e199]:
+            - generic [ref=e200]: Standard multi select
+          - listbox [ref=e201]:
+            - option "Volvo" [ref=e202]
+            - option "Saab" [ref=e203]
+            - option "Opel" [ref=e204]
+            - option "Audi" [ref=e205]
+      - img "Build PlayWright tests with AI" [ref=e213] [cursor=pointer]
+    - contentinfo [ref=e214]:
+      - generic [ref=e215]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

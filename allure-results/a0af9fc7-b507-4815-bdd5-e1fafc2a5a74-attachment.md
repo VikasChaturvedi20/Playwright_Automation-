@@ -1,0 +1,160 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [ref=f1e2]:
+        - link "Advertisement" [ref=f1e4] [cursor=pointer]:
+          - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss3DsNCqXaA_nk4hrEGb36TaIY7Ymxk8Fq7s9pAG9S3OkFPK3OVhGKjazpUszWvbqy94PcNKsPq5AlmedfaiK67CCOL50-4yWIdiBykpXDYmMCxuLKSd7-l_o5muA1HA4kVDA5tw-pTPoTo2q1lfbKQYqWfyj7H8PfonQ4NVoxXBOHFHbJtnV1OyzLW7Vv3UF0ttPb4sxRgJnbWLFGR7grhBylK8pzOEdCm9v4xwunoYpdskz5CBw0qS1L7f80x4CFRPWi2peM_ysauBlD0G0XD8yp7T7U95DIHYrmaVEKovTSAu30Dryij6s1ShcXDMK2wHABxvFKSBfdRtqFWHEvNzO5Mvt5ofenlIQebkljwj9YGKmo-M0G_PLB81wuvXHqWLbRAvcN2T2pyx98o4MnLxJrHk_FBDLznoSgcKbS_tol0nXpPfanXfYekl8JF2cfLv4Fkp_3wCxVFDaVcUpvqKCSaDQ88vaZkUnlRArrYSV572zaTY0TCtqYvwvVB5lqT0tIEG12_rOxlDXb-WDjh0jS7RTji91zeQ7-7CKm_bVduFZCykcNS7XUheRGDaoVE6Two4XfOj4pH-fh6q1lknoa1-8G5Hfta_wbyyCSfBVoMCoBlmCfuJnKMiAdvwTN8sMTCtHVMMjKiiU9VwpvTsp4gMlydv43E-hoFGV9YNVJaBtC3jvyR84CqYDagwymghcmd15I_rAKCRD8IGDAd71EbcR8cNROiuiYKtd1Wmywl77l8ieuI8rRO0F_aepH-BkxMocO37l7tCXF6cFVDKeTHlTxN4JvDqZh9W6UFM-jN2u2xrbIzs7gLY_nDOJSYxXt603WTl_yjK2LQeCkaoCaX6O9aHFjg14FZGgVWNueHwxX91eWVKv6DqyL7qpLCzS2_eP-cbbf0O0Qdcxk6IkepRzKEzBJtTIIbUoxduWzoGRSKwMlFiKMnx98hs8qOw7M9x_-5SQbelFXRo0kvoQT7jtLDMTiTQAbHHQehtAPaSdQhHG_iOGUPl2Q1FK0OSomUg2Q5nveOBdv74pwhyxWc0AwUrbP65oHcmxMXo1-SkjuiV1B0jpNcxBJ5H-GyeXc6zkegD7eGZemOjUjQwNidoH2Z8Q4DvACGwBwgsNtWVcc_fXRnl5vMtO-Yn01ur11JABayNRsP0mjtL6XUvSv1FaH8WTPmlCDuw3TVwbCewrWtnSKhybqrUahfyeCQjh1SmaH6l7kS8L3Uy2PiUvjM3rUO-kYWKky-NBYy4FoMug66kVRhu7URK-ol-QjdCPJ8dT3kQvI925h67CstqkIvGJ72YOF706lyP8T6hhTc6p3_h9XfshNUuWYIa6f5GMIDbEptUgLnUdmbtyuPAKF-1cmtdy1ji_XDilSshTm6G29Vz3AjPj6X-6rZmZMhjDLaj0yOwoaZ94hPBY88tk3-Jl1sYE2p-Sgo9YiwgMInbITWuCS9gvPilxZ5hobQccAF-5TH7VStP4YynEybuMIdM5nt0PzdtPLM6ddHifo9seQ2R4g&sai=AMfl-YRaJcKmAK6TnRu75x6kpSO8U2auqm3BifeUVLsj2NXkUvnVkbwfDDhV9Z7MSRiUOgVRlJwn_oS5TDLQGxDzDQSC9wV5hNoeeD8_W57fCkZyYJn57HFSvpP8BL4oJyRMc18WRLP7zpLR5QsmmdNt76jxqp5M8883X3s6Q9DbwxU-yvZUBCNT5ziztiQYaGa5r0dlSmXvg-ECHUgS9Z0KWbXRzCpgVig0dmnZyxeKZ5oZvpGfo38vMryFtGIUfguuhK_vackS_j5zgsUkx1ILCff6uWVCv7saITc9JW6djehwg36bu7xkzHE7ALgmacrTLStnsPTn_TKlIJ11m1j-pEZFIWyDWI3kx3dn65HwsGEGBIWLZzr0ITSHuNl4jtJL6aSb5RcIIOf598iURqLMtS5WPpfTTU5fiQKi4Xmtdm1vVeSxkiRghUwPHsBod2Qo-p8AQbealM0lruHBwOvL_rO3sw4ZCDxz4Y-bn10Fp0f4ivPDtI_Q7NVfxYcsizL1BGhPIOu9bEQZOG3GZC5J7DYIPHfHnhKiG-iq2I-tC6mu6mdl5O-nxbow6g3q2inJs3HGknBPsf1hv37goLF2mGcX9N65NmILZvIxwWvQ_DuMk3_2ON8Y6urywv-VfrtN7np0x6JhIwShGA-HsvWmYFKJ2gBbn84QrWoPzsxVrncXDQ&sig=Cg0ArKJSzN2rE3epnR2a&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.visitdubai.com/en/dubai-ready-for-a-surprise%3Futm_source%3Dprogrammatic%26utm_medium%3Ddisplay%26utm_campaign%3Dseasonalaonapac%26utm_term%3Dind-en_indiabrandambassador%26utm_content%3Dconsideration_banner728x90_OPXInmarketAll%26dclid%3D%25edclid!%26gad_source%3D7
+          - img "Advertisement" [ref=f1e5] [cursor=pointer]
+        - generic [ref=f1e6]:
+          - generic:
+            - img [ref=f1e10] [cursor=pointer]
+            - button [ref=f1e12] [cursor=pointer]:
+              - img [ref=f1e13] [cursor=pointer]
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e22] [cursor=pointer]:
+          - generic [ref=e23] [cursor=pointer]:
+            - img [ref=e25] [cursor=pointer]
+            - text: Elements
+          - img [ref=e30] [cursor=pointer]
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37] [cursor=pointer]:
+            - img [ref=e39] [cursor=pointer]
+            - text: Forms
+          - img [ref=e45] [cursor=pointer]
+        - generic [ref=e51] [cursor=pointer]:
+          - generic [ref=e52] [cursor=pointer]:
+            - img [ref=e54] [cursor=pointer]
+            - text: Alerts, Frame & Windows
+          - img [ref=e59] [cursor=pointer]
+        - generic [ref=e63]:
+          - generic [ref=e65] [cursor=pointer]:
+            - generic [ref=e66] [cursor=pointer]:
+              - img [ref=e68] [cursor=pointer]
+              - text: Widgets
+            - img [ref=e73] [cursor=pointer]
+          - list [ref=e78]:
+            - listitem [ref=e79] [cursor=pointer]:
+              - img [ref=e80] [cursor=pointer]
+              - generic [ref=e82] [cursor=pointer]: Accordian
+            - listitem [ref=e83] [cursor=pointer]:
+              - img [ref=e84] [cursor=pointer]
+              - generic [ref=e86] [cursor=pointer]: Auto Complete
+            - listitem [ref=e87] [cursor=pointer]:
+              - img [ref=e88] [cursor=pointer]
+              - generic [ref=e90] [cursor=pointer]: Date Picker
+            - listitem [ref=e91] [cursor=pointer]:
+              - img [ref=e92] [cursor=pointer]
+              - generic [ref=e94] [cursor=pointer]: Slider
+            - listitem [ref=e95] [cursor=pointer]:
+              - img [ref=e96] [cursor=pointer]
+              - generic [ref=e98] [cursor=pointer]: Progress Bar
+            - listitem [ref=e99] [cursor=pointer]:
+              - img [ref=e100] [cursor=pointer]
+              - generic [ref=e102] [cursor=pointer]: Tabs
+            - listitem [ref=e103] [cursor=pointer]:
+              - img [ref=e104] [cursor=pointer]
+              - generic [ref=e106] [cursor=pointer]: Tool Tips
+            - listitem [ref=e107] [cursor=pointer]:
+              - img [ref=e108] [cursor=pointer]
+              - generic [ref=e110] [cursor=pointer]: Menu
+            - listitem [ref=e111] [cursor=pointer]:
+              - img [ref=e112] [cursor=pointer]
+              - generic [ref=e114] [cursor=pointer]: Select Menu
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118] [cursor=pointer]:
+            - img [ref=e120] [cursor=pointer]
+            - text: Interactions
+          - img [ref=e125] [cursor=pointer]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132] [cursor=pointer]:
+            - img [ref=e134] [cursor=pointer]
+            - text: Book Store Application
+          - img [ref=e139] [cursor=pointer]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          
+        - generic [ref=e147]:
+          - heading "Select Menu" [level=1] [ref=e148]
+          - generic [ref=e150]: Select Value
+          - generic [ref=e154]:
+            - generic [ref=e155]:
+              - generic [ref=e156]: Select Option
+              - textbox [ref=e159]
+            - img [ref=e163]
+          - generic [ref=e166]: Select One
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - generic [ref=e172]: Select Title
+              - textbox [ref=e175]
+            - img [ref=e179]
+          - generic [ref=e182]: Old Style Select Menu
+          - combobox [ref=e186]:
+            - option "Red" [selected]
+            - option "Blue"
+            - option "Green"
+            - option "Yellow"
+            - option "Purple"
+            - option "Black"
+            - option "White"
+            - option "Voilet"
+            - option "Indigo"
+            - option "Magenta"
+            - option "Aqua"
+          - generic [ref=e188]:
+            - paragraph [ref=e189]:
+              - generic [ref=e190]: Multiselect drop down
+            - generic [ref=e192]:
+              - generic [ref=e193]:
+                - generic [ref=e194]: Select...
+                - textbox [ref=e197]
+              - img [ref=e201]
+          - generic [ref=e204]:
+            - paragraph [ref=e205]:
+              - generic [ref=e206]: Standard multi select
+            - listbox [ref=e207]:
+              - option "Volvo" [ref=e208]
+              - option "Saab" [ref=e209]
+              - option "Opel" [ref=e210]
+              - option "Audi" [ref=e211]
+        - iframe [ref=e215]:
+          
+      - generic [ref=e220]:
+        - img "Build PlayWright tests with AI" [ref=e222] [cursor=pointer]
+        - iframe [ref=e225]:
+          - generic [ref=f4e2]:
+            - link "Advertisement" [ref=f4e4] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstrS4DHXufMsQ5CZQPqdymmU-0kmwmcfvhrmGHcLu3Yvw49psr706kawa875ZM-H46uT87uZm9SS4qfN56796JLbIMOEeiGkXmrtr4khlEO4p1I3wZugBmMSGuM2EOfFnTUS5IeqTt0js3OR1bt9IM95729kAmWZBYkETaGutPAcVY0RE6RhCHR_YLjY0tEUcYX_KV_kFGiJr56L9rAvoNJfceYxAr2b57HmNpntXyvZIH450nN7g9UAxnwYOITS3ePUAdvsOaYZgqHX0I3P-cLQfsTEcjIBx3x3i-lBDowrWGAQWyBQbGis8pZQnJZuF2OigjF-gsKa5NyJxyqASy-PJb0QekODIHkW5al9jWtKoYWjk6nYp6Si20FebAVKS-mWC-vrZp63kxs5MjDaAApsghkcXHCTpHCeSgwfFKx_gZtl-WSjUByDSyy5TSMsK-NACHGHg2WxOoUd2IkJ4JBzIzbrbFCC-b79a9BZit11cGP-wAxbrrpahJbr2muz24QcJuDWvuxWzBgCe0I0VUmF9HYsL80LtDsvDMu9alkhYTYbeyKwWmJX1bN_NKTs5DkZeqiyr8P7X1PJoa0KwG0IKlZhliMdJgvtpZFAQ16RnhS4ShSC1hN3BmovPzydlpSCDyewpUAT5EXY_TAI2H2UXhomu54mZ-JOV3Qz8MEDTZ_EESM-Ir64G-rzz_j89WyrYgJjgRbECcYizSSyCzBCCsbsPVMKAvTwsb_nREB0fRMXAWQAEX7pu7DGSXsE36lsOnirrqF7s3LHUY7iFPs0_5kU44JTK-NQiySdDtOkDrL0yZGVR_GZKxUEamyBrmUKWCJdyzQxm4MGC6ni6hudUtTCvKTcrij2wLhZaX-AiTuPRlpeVmAGmLvTpmFfxhRdxWKmlyKSJYkDI-H7cvMn0cv5VtgWbd8uH7BhjTm82EIfak7q78RulAoX3vQPeJYDnbc2rnDitq3lGJNGwV7WZZo1D7OMtu0WvRTS3rCzO2KyT5YbeWHEUt-7EKMVQixQuNDiry3DIQwhsRx2oGgpANWWVxqxZdb7HvkXgQKVH7c0Wfg43DC-8sflq0to7Q2jng2s9S3_3339oJtfao3-vSa-8mIxIMX5wo6-ZBb97hvizTzRC6bflvhQ8tCnroDsQJhgCOiaFvsutG1DLRua-0oErU46EuRsvagUHJiF0y1m9xY9VLcGS8l7Yq-1hTt9VZ0GrP1OvwVPvkh4XoWxcgn0FE39F271A9DIsrXFy8RjWiIY2UDwcKe_jGiYU4sUSvtjF2yFBkVUXiegfoRhpdaC1Hen6NxohI79wI_5ZhBsRtQnwV2YbZ7z5JtolcTs4-lweyTImz05uyNJ8EwXkZe2EjVq6JU-X55HZ2GmZbQY8qkBCIUFhm4BMr4vgVjLpr77LaBnY9F72jGg2zKfkT7pgw8i5mmyC-xFwWC3sLH2e0dA-miQU8pob0yW7mYOB0Xx2x-PI4TsUZkwA38iVlZMoHHUf8vDDRcN-2mH1NSYxKvyZ9iVDBVxPXKH6I7w9Ur&sai=AMfl-YQEGgLbnWMAbTR0wQUFnu5XxzP5yHyiGg2Q5gMrfo6AYGedfnE2dQYLPIOtzbrSIif_KE-11rvz7g0gcWxO0TsgMeMtrXccYcOOkEz7Z5829cbMqvoyHlulwNVnhbdQeMJ7uy5uFRauJXALJBZUvgNExDNRptiEC6SO4xxcQo226DSW4NCNQbXqwCIRAbs8eTEbheS0ln_H5ya-U7crZad8F0ofwALjlYPy8NlRbBcC0vn06MV42y3ot6vAGFusXBI3imE5EURIWqFDCdcm2UcnEhizQiVjcnlM_3E2b9X7OHDkk3-ApXKKmA43DKGShxGqPfGJSQj2jj2yBfP56biiKH9laD_TKEhSIq0Mxdhm6iC3HD22mVR8noj3WgkbTMumpuKl9NomUO57CKLlggsv_3dkoWeb5yia4yl6VWK897iujP2NWEO1FJIeSasVmUbGngSLm2RHRFhrAI--FyyuBHJUA0YwLxNklTez5q32uiZavD-CjxwVBOKn2pVzUEsggAR3iRlKSoUhq3GbmIRVu2xnbcz1K05tnej5FFb7fwXgUa3BNIpn1wUxeeMHgoFik0Fejk19Ml1hobbF_HX_Y1Jd_GsLLoChj4ALGDjpuf2Of8V0z--HZgsDf_K0xC43d2-SbgQ9fp9RQ2311vMb2kOeoThCt1XVhNc2RNDaQi1s&sig=Cg0ArKJSzJ3GV74d0-u5&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.visitdubai.com/en/dubai-ready-for-a-surprise%3Futm_source%3Dprogrammatic%26utm_medium%3Ddisplay%26utm_campaign%3Dseasonalaonapac%26utm_term%3Dind-en_indiabrandambassador%26utm_content%3Dconsideration_banner300x250_OPXInmarketAll%26dclid%3D%25edclid!%26gad_source%3D7
+              - img "Advertisement" [ref=f4e5] [cursor=pointer]
+            - generic [ref=f4e6]:
+              - generic:
+                - img [ref=f4e10] [cursor=pointer]
+                - button [ref=f4e12] [cursor=pointer]:
+                  - img [ref=f4e13] [cursor=pointer]
+        - iframe [ref=e228]:
+          - generic [ref=f5e7] [cursor=pointer]:
+            - link [ref=f5e8] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/1?h=p4_7WY7aIl73F_ukeclw306eRtWGPW6vSFbR1OJ7wMB_NYny_3STUjcVIzy6Lni2TeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBrcRElpYbyJo8f8qMK-QLUde&rid=79e49910-9845-11f0-bbc6-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&cpm=1&abd=1&iv=17&ct=3&gdprApplies=0&muid=p8m14SzJmJln&st=330&mp4=1&h2=Mmn2a_dlQ9XwaNo3OUmkqzvVAlzYN8A8lURNeQL4TSa0S7QsOb4TyE5H_wq1CwLYAVWryGVkiCX1MRSlX2PDvQ**
+            - generic [ref=f5e9] [cursor=pointer]:
+              - link [ref=f5e11] [cursor=pointer]:
+                - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/1?h=p4_7WY7aIl73F_ukeclw306eRtWGPW6vSFbR1OJ7wMB_NYny_3STUjcVIzy6Lni2TeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBrcRElpYbyJo8f8qMK-QLUde&rid=79e49910-9845-11f0-bbc6-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&cpm=1&abd=1&iv=17&ct=3&gdprApplies=0&muid=p8m14SzJmJln&st=330&mp4=1&h2=Mmn2a_dlQ9XwaNo3OUmkqzvVAlzYN8A8lURNeQL4TSa0S7QsOb4TyE5H_wq1CwLYAVWryGVkiCX1MRSlX2PDvQ**
+              - generic [ref=f5e14] [cursor=pointer]:
+                - link "L'OREAL PARIS Men Expert Moisturiser 50ML (Hydra Energetic)" [ref=f5e16] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/1?h=p4_7WY7aIl73F_ukeclw306eRtWGPW6vSFbR1OJ7wMB_NYny_3STUjcVIzy6Lni2TeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBrcRElpYbyJo8f8qMK-QLUde&rid=79e49910-9845-11f0-bbc6-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&cpm=1&abd=1&iv=17&ct=3&gdprApplies=0&muid=p8m14SzJmJln&st=330&mp4=1&h2=Mmn2a_dlQ9XwaNo3OUmkqzvVAlzYN8A8lURNeQL4TSa0S7QsOb4TyE5H_wq1CwLYAVWryGVkiCX1MRSlX2PDvQ**
+                - link "Amazon" [ref=f5e18] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/1?h=p4_7WY7aIl73F_ukeclw306eRtWGPW6vSFbR1OJ7wMB_NYny_3STUjcVIzy6Lni2TeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBrcRElpYbyJo8f8qMK-QLUde&rid=79e49910-9845-11f0-bbc6-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&cpm=1&abd=1&iv=17&ct=3&gdprApplies=0&muid=p8m14SzJmJln&st=330&mp4=1&h2=Mmn2a_dlQ9XwaNo3OUmkqzvVAlzYN8A8lURNeQL4TSa0S7QsOb4TyE5H_wq1CwLYAVWryGVkiCX1MRSlX2PDvQ**
+                - link [ref=f5e19] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24774567/i/58092113/0/pp/1/1?h=p4_7WY7aIl73F_ukeclw306eRtWGPW6vSFbR1OJ7wMB_NYny_3STUjcVIzy6Lni2TeY4_TiIOaIY54_m7kMQL1auIqe7tdHzi2DN_yguBrcRElpYbyJo8f8qMK-QLUde&rid=79e49910-9845-11f0-bbc6-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&cpm=1&abd=1&iv=17&ct=3&gdprApplies=0&muid=p8m14SzJmJln&st=330&mp4=1&h2=Mmn2a_dlQ9XwaNo3OUmkqzvVAlzYN8A8lURNeQL4TSa0S7QsOb4TyE5H_wq1CwLYAVWryGVkiCX1MRSlX2PDvQ**
+                  - img [ref=f5e20] [cursor=pointer]
+    - contentinfo [ref=e229]:
+      - generic [ref=e230]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

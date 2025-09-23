@@ -1,0 +1,2 @@
+Alert message: You clicked a button
+Confirm message: Do you confirm action?

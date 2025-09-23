@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15172","Handle Tabs","chromium","Tue Sep 23 11:30:46 IST 2025","passed","Tue Sep 23 11:31:01 IST 2025","Handling Alerts, Frames & Tabs (DemoQA)","alerts-frames-tabs.spec.js","",""
+"","11359","Handle Frames","chromium","Tue Sep 23 11:30:46 IST 2025","passed","Tue Sep 23 11:30:57 IST 2025","Handling Alerts, Frames & Tabs (DemoQA)","alerts-frames-tabs.spec.js","",""
+"","34557","Handle Alerts","chromium","Tue Sep 23 11:30:46 IST 2025","broken","Tue Sep 23 11:31:20 IST 2025","Handling Alerts, Frames & Tabs (DemoQA)","alerts-frames-tabs.spec.js","",""
